@@ -71,7 +71,7 @@ export const ContactSection = () => {
                   <Mail className="h-6 w-6 text-primary" />
                 </div>
                 <div className="">
-                  <h4 className="font-medium">Email</h4>
+                  <h4 className="font-medium text-left">Email</h4>
                   <a
                     href="mailto:freddybalderrama.fa@gmail.com"
                     className="text-muted-foreground hover:text-primary transition-colors"
@@ -85,7 +85,7 @@ export const ContactSection = () => {
                   <Phone className="h-6 w-6 text-primary" />
                 </div>
                 <div className="">
-                  <h4 className="font-medium">Phone</h4>
+                  <h4 className="font-medium text-left">Phone</h4>
                   <a
                     href="tel:+59179769996"
                     className="text-muted-foreground hover:text-primary transition-colors"
@@ -99,7 +99,7 @@ export const ContactSection = () => {
                   <MapPin className="h-6 w-6 text-primary" />
                 </div>
                 <div className="">
-                  <h4 className="font-medium">Location</h4>
+                  <h4 className="font-medium text-left">Location</h4>
                   <a className="text-muted-foreground hover:text-primary transition-colors">
                     Cochabamba, Bolivia
                   </a>
